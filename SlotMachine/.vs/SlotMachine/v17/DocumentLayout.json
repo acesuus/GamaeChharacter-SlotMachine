@@ -1,0 +1,145 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Kert\\source\\repos\\SlotMachine\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1171414D-8AAE-4F85-946B-77BB9D07A070}|SlotMachine\\SlotMachine.csproj|C:\\Users\\Kert\\source\\repos\\SlotMachine\\slotmachine\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1171414D-8AAE-4F85-946B-77BB9D07A070}|SlotMachine\\SlotMachine.csproj|solutionrelative:slotmachine\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1171414D-8AAE-4F85-946B-77BB9D07A070}|SlotMachine\\SlotMachine.csproj|c:\\users\\kert\\source\\repos\\slotmachine\\slotmachine\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1171414D-8AAE-4F85-946B-77BB9D07A070}|SlotMachine\\SlotMachine.csproj|solutionrelative:slotmachine\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1171414D-8AAE-4F85-946B-77BB9D07A070}|SlotMachine\\SlotMachine.csproj|c:\\users\\kert\\source\\repos\\slotmachine\\slotmachine\\themes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1171414D-8AAE-4F85-946B-77BB9D07A070}|SlotMachine\\SlotMachine.csproj|solutionrelative:slotmachine\\themes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1171414D-8AAE-4F85-946B-77BB9D07A070}|SlotMachine\\SlotMachine.csproj|c:\\users\\kert\\source\\repos\\slotmachine\\slotmachine\\slot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1171414D-8AAE-4F85-946B-77BB9D07A070}|SlotMachine\\SlotMachine.csproj|solutionrelative:slotmachine\\slot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1171414D-8AAE-4F85-946B-77BB9D07A070}|SlotMachine\\SlotMachine.csproj|c:\\users\\kert\\source\\repos\\slotmachine\\slotmachine\\reel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1171414D-8AAE-4F85-946B-77BB9D07A070}|SlotMachine\\SlotMachine.csproj|solutionrelative:slotmachine\\reel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1171414D-8AAE-4F85-946B-77BB9D07A070}|SlotMachine\\SlotMachine.csproj|c:\\users\\kert\\source\\repos\\slotmachine\\slotmachine\\slotmachine.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1171414D-8AAE-4F85-946B-77BB9D07A070}|SlotMachine\\SlotMachine.csproj|solutionrelative:slotmachine\\slotmachine.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1171414D-8AAE-4F85-946B-77BB9D07A070}|SlotMachine\\SlotMachine.csproj|c:\\users\\kert\\source\\repos\\slotmachine\\slotmachine\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1171414D-8AAE-4F85-946B-77BB9D07A070}|SlotMachine\\SlotMachine.csproj|solutionrelative:slotmachine\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Themes.cs",
+              "DocumentMoniker": "C:\\Users\\Kert\\source\\repos\\SlotMachine\\SlotMachine\\Themes.cs",
+              "RelativeDocumentMoniker": "SlotMachine\\Themes.cs",
+              "ToolTip": "C:\\Users\\Kert\\source\\repos\\SlotMachine\\SlotMachine\\Themes.cs",
+              "RelativeToolTip": "SlotMachine\\Themes.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAqwE0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T01:20:30.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SlotMachine.csproj",
+              "DocumentMoniker": "C:\\Users\\Kert\\source\\repos\\SlotMachine\\SlotMachine\\SlotMachine.csproj",
+              "RelativeDocumentMoniker": "SlotMachine\\SlotMachine.csproj",
+              "ToolTip": "C:\\Users\\Kert\\source\\repos\\SlotMachine\\SlotMachine\\SlotMachine.csproj",
+              "RelativeToolTip": "SlotMachine\\SlotMachine.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-19T15:37:51.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Kert\\source\\repos\\SlotMachine\\SlotMachine\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "SlotMachine\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Kert\\source\\repos\\SlotMachine\\SlotMachine\\Form1.Designer.cs",
+              "RelativeToolTip": "SlotMachine\\Form1.Designer.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAmwBYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T15:21:46.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Slot.cs",
+              "DocumentMoniker": "C:\\Users\\Kert\\source\\repos\\SlotMachine\\SlotMachine\\Slot.cs",
+              "RelativeDocumentMoniker": "SlotMachine\\Slot.cs",
+              "ToolTip": "C:\\Users\\Kert\\source\\repos\\SlotMachine\\SlotMachine\\Slot.cs",
+              "RelativeToolTip": "SlotMachine\\Slot.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAUwEYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T13:04:40.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Reel.cs",
+              "DocumentMoniker": "C:\\Users\\Kert\\source\\repos\\SlotMachine\\SlotMachine\\Reel.cs",
+              "RelativeDocumentMoniker": "SlotMachine\\Reel.cs",
+              "ToolTip": "C:\\Users\\Kert\\source\\repos\\SlotMachine\\SlotMachine\\Reel.cs",
+              "RelativeToolTip": "SlotMachine\\Reel.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAiwDYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T13:04:33.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Kert\\source\\repos\\SlotMachine\\SlotMachine\\Form1.cs",
+              "RelativeDocumentMoniker": "SlotMachine\\Form1.cs",
+              "ToolTip": "C:\\Users\\Kert\\source\\repos\\SlotMachine\\SlotMachine\\Form1.cs",
+              "RelativeToolTip": "SlotMachine\\Form1.cs",
+              "ViewState": "AgIAAIwAAAAAAAAAAAAwwJkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T13:04:06.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Kert\\source\\repos\\SlotMachine\\SlotMachine\\Form1.cs",
+              "RelativeDocumentMoniker": "SlotMachine\\Form1.cs",
+              "ToolTip": "C:\\Users\\Kert\\source\\repos\\SlotMachine\\SlotMachine\\Form1.cs [Design]",
+              "RelativeToolTip": "SlotMachine\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T13:02:53.772Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+C:\Users\Kert\source\repos\GameCharacterWinForms\GameCharacterWinForms\bin\Debug\GameCharacterWinForms.exe.config
+C:\Users\Kert\source\repos\GameCharacterWinForms\GameCharacterWinForms\bin\Debug\GameCharacterWinForms.exe
+C:\Users\Kert\source\repos\GameCharacterWinForms\GameCharacterWinForms\bin\Debug\GameCharacterWinForms.pdb
+C:\Users\Kert\source\repos\GameCharacterWinForms\GameCharacterWinForms\obj\Debug\GameCharacterWinForms.csproj.AssemblyReference.cache
+C:\Users\Kert\source\repos\GameCharacterWinForms\GameCharacterWinForms\obj\Debug\GameCharacterWinForms.Form1.resources
+C:\Users\Kert\source\repos\GameCharacterWinForms\GameCharacterWinForms\obj\Debug\GameCharacterWinForms.Properties.Resources.resources
+C:\Users\Kert\source\repos\GameCharacterWinForms\GameCharacterWinForms\obj\Debug\GameCharacterWinForms.csproj.GenerateResource.cache
+C:\Users\Kert\source\repos\GameCharacterWinForms\GameCharacterWinForms\obj\Debug\GameCharacterWinForms.csproj.CoreCompileInputs.cache
+C:\Users\Kert\source\repos\GameCharacterWinForms\GameCharacterWinForms\obj\Debug\GameCharacterWinForms.exe
+C:\Users\Kert\source\repos\GameCharacterWinForms\GameCharacterWinForms\obj\Debug\GameCharacterWinForms.pdb
